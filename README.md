@@ -6,12 +6,12 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Ciuffetto/Ciuffetto/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Ciuffetto288/Ciuffetto/snake-output/snake.svg" alt="Snake animation" />
 
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ciuffetto.Ciuffetto&"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ciuffetto.Ciuffetto288&"  />
 </div>
 
 ###
