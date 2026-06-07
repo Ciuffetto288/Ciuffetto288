@@ -6,7 +6,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Ciuffetto288/Ciuffetto/snake-output/snake.svg" alt="Snake animation" />
+<img src="https://githubusercontent.com" alt="Snake animation" />
 
 ###
 
