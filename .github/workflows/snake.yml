@@ -2,9 +2,11 @@ name: Generate Snake
 
 on:
   schedule:
-    # Si attiva automaticamente ogni 24 ore
     - cron: "0 0 * * *"
   workflow_dispatch:
+
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -18,7 +20,7 @@ jobs:
             dist/snake.svg
             dist/snake-dark.svg?palette=github-dark
 
-      - name: Push Snake SVGs to GitHub
+      - name: Push to snake-output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: snake-output
