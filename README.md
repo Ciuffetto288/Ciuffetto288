@@ -11,7 +11,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ciuffetto.Ciuffetto&"  />
+  <img src="https://pages.dev" alt="Visitor Badge" />
 </div>
 
 ###
