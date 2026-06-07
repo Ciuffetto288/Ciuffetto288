@@ -1,16 +1,17 @@
-## Hi there 👋
+<h1 align="left">Hi 👋 I'm Ciuffetto</h1>
 
-<!--
-**Ciuffetto288/Ciuffetto288** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###
 
-Here are some ideas to get you started:
+<p align="left">Hello everybody, I'm Ciuffetto 👋<br><br>I'm passionate about computer science and I enjoy solving challenging problems. I often overcomplicate things just to reach a goal, but I always take time afterward to refactor and clean my code while preserving functionality.<br><br><br><br>This is usually where I discover logical errors — and where I learn the most.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+###
+
+<img src="https://raw.githubusercontent.com/Ciuffetto/Ciuffetto/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ciuffetto.Ciuffetto&"  />
+</div>
+
+###
