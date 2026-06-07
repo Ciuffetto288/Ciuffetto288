@@ -7,15 +7,15 @@
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://githubusercontent.com" />
-  <source media="(prefers-color-scheme: light)" srcset="https://githubusercontent.com" />
-  <img alt="Snake animation" src="https://githubusercontent.com" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Ciuffetto288/Ciuffetto288/snake-output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Ciuffetto288/Ciuffetto288/snake-output/snake.svg" />
+  <img alt="Snake animation" src="https://raw.githubusercontent.com/Ciuffetto288/Ciuffetto288/snake-output/snake.svg" />
 </picture>
 
 ###
 
 <div align="center">
-  <img src="https://pages.dev" alt="Visitor Badge" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Ciuffetto288.Ciuffetto288" alt="Visitor Badge" />
 </div>
 
 ###
