@@ -1,4 +1,5 @@
-<h1 align="left">Hi 👋 I'm Ciuffetto</h1>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ciuffetto+%F0%9F%91%8B" alt="Typing SVG" />
+
 
 ###
 
