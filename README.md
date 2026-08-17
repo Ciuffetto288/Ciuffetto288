@@ -1,17 +1,8 @@
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Ciuffetto+%F0%9F%91%8B" alt="Typing SVG" />
-
+<h1 align="left">Hi 👋 I'm Ciuffetto</h1>
 
 ###
 
 <p align="left">Hello everybody, I'm Ciuffetto 👋<br><br>I'm passionate about computer science and I enjoy solving challenging problems. I often overcomplicate things just to reach a goal, but I always take time afterward to refactor and clean my code while preserving functionality.<br><br><br><br>This is usually where I discover logical errors — and where I learn the most.</p>
-
-
-## 🛠️ Tech Stack
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=java,vite,html,python,git,github,vscode" />
-</p>
-
 
 ###
 
@@ -28,4 +19,3 @@
 </div>
 
 ###
-
